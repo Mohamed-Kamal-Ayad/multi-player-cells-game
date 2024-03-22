@@ -1,0 +1,1 @@
+Browser-based multi-player game that works on any device implemented with Node.JS. I design the multi-player game with the server authoritative model where the game state is stored on the server. I use WebSockets as a communication medium for the game I am building
